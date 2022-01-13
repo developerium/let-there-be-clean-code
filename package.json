@@ -1,0 +1,27 @@
+{
+  "name": "let-there-be-clean-code",
+  "version": "1.0.0",
+  "description": "An exercise of clean code best practices",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./src --fix",
+    "start": "echo \"Please refer to README.md for more info\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developerium/let-there-be-clean-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developerium/let-there-be-clean-code/issues"
+  },
+  "homepage": "https://github.com/developerium/let-there-be-clean-code#readme",
+  "devDependencies": {
+    "eslint": "^8.6.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.5.1"
+  }
+}
