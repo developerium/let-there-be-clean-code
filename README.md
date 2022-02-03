@@ -1,2 +1,3 @@
 # let-there-be-clean-code
-An exercise of clean code best practices
+
+Repository of the clean code best practices showcased on Instagram [@developerium](https://www.instagram.com/developerium/)
